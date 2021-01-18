@@ -1,0 +1,22 @@
+.NewsCard {
+  border-radius: 1em;
+  margin-top: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 2em 2em 2em 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 20rem;
+  height: 20rem;
+  color: #282c34;
+  font-size: 0.5rem;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+}
+.Image {
+  height: 20vmin;
+  border-radius: 1em;
+}
+
+

@@ -1,0 +1,18 @@
+.Header {
+  height: 15vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #282c34;
+}
+.Container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr  ;
+}
+.Input {
+  height: 4vh;
+  width: 35vh;
+  position: relative;
+  left: -9em;
+}
